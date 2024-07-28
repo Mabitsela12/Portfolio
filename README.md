@@ -5,8 +5,8 @@ I am highly motivated and have passion in programming and always open to challen
 PERSONAL DETAILS 
 Surname 	 	: Mathipa 
 Names  	 	: Mabitsela Tshales 
-Id No  	 	: 9908265840087 
-DOB  	 	: 26 August 1999 
+Id No  	 	:  
+DOB  	 	: 26 August
 Languages 	 	: Sepedi, English and IsiZulu 
 Home Address  
 Box Office
